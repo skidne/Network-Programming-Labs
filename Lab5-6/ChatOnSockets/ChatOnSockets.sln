@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatOnSockets.Client", "ChatOnSockets\ChatOnSockets.Client.csproj", "{58B0C4C2-CF4E-4994-96F8-68F007A055D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatOnSockets.Server", "ChatOnSockets.Server\ChatOnSockets.Server.csproj", "{8A6A7758-8036-49A3-B364-9C86602F407B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58B0C4C2-CF4E-4994-96F8-68F007A055D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B0C4C2-CF4E-4994-96F8-68F007A055D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B0C4C2-CF4E-4994-96F8-68F007A055D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B0C4C2-CF4E-4994-96F8-68F007A055D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A6A7758-8036-49A3-B364-9C86602F407B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A6A7758-8036-49A3-B364-9C86602F407B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A6A7758-8036-49A3-B364-9C86602F407B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A6A7758-8036-49A3-B364-9C86602F407B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F7D1B8-6C2C-43D8-A20B-3C7063CC6697}
+	EndGlobalSection
+EndGlobal
